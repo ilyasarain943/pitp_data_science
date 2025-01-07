@@ -1,1 +1,1 @@
-# pitp_data_science
+# PITP_Data_Science_Project
